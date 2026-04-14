@@ -1,21 +1,5 @@
-
-<!--
-**NicolasAraya932/NicolasAraya932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![NicolasAraya932's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasAraya932&count_private=true&show_icons=true&theme=bright)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAraya932&layout=compact&theme=bright)](https://github.com/anuraghazra/github-readme-stats)
+Me apasiona entender cómo una máquina puede percibir, reconstruir e interpretar el mundo. Por eso he orientado mi formación y mi trabajo hacia la robótica, la visión por computador y la reconstrucción 3D, integrando herramientas de geometría, aprendizaje profundo y modelamiento visual para resolver problemas complejos.
+ 
+He trabajado en estimación de pose, segmentación y reconstrucción de escenas con métodos como Neural Radiance Fields (NeRF), con interés especial en su aplicación a problemas reales donde la percepción precisa es clave. Disfruto investigar, experimentar y construir soluciones de manera rigurosa, pero también creativa.
+ 
+Me caracteriza la curiosidad, la profundidad técnica y las ganas de aprender constantemente. Busco aportar en proyectos donde la investigación, la ingeniería y la innovación se conecten para crear tecnología útil, sólida y con impacto.
